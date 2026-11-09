@@ -1,0 +1,15 @@
+{
+  "name": "kiibo-control",
+  "version": "1.1.0",
+  "private": true,
+  "description": "Kiibo Control, the platform owner app for Kiibo Studios",
+  "dependencies": {
+    "@capacitor/android": "^6.2.0",
+    "@capacitor/core": "^6.2.0",
+    "@capacitor/splash-screen": "^6.0.0"
+  },
+  "devDependencies": {
+    "@capacitor/assets": "^3.0.5",
+    "@capacitor/cli": "^6.2.0"
+  }
+}

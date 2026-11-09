@@ -1,0 +1,10 @@
+{
+  "appId": "com.kiibographics.control",
+  "appName": "Kiibo Control",
+  "webDir": "www",
+  "server": { "androidScheme": "https" },
+  "android": { "backgroundColor": "#060807" },
+  "plugins": {
+    "SplashScreen": { "launchShowDuration": 1000, "launchAutoHide": true, "backgroundColor": "#060807", "showSpinner": false, "androidScaleType": "CENTER_INSIDE" }
+  }
+}
